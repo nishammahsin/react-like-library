@@ -27,4 +27,4 @@ To run the examples and tests for this project, follow these steps:
 
 
 ## Chapters
-Chapter 1 : CreateRoot Function [chapter 1](chapters/chapter-1.md.md)   
+Chapter 1: CreateRoot Function [chapter 1](chapters/chapter-1.md)   
