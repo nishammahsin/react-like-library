@@ -18,6 +18,10 @@ describe('createRoot', () => {
   afterEach(() => {
     container.innerHTML = '';
   });
+  
+  it('should return an object with a render method', () => {
+    expect(root.render).toBeDefined();
+  });
 
   it('should render an element to the container', () => {
     root.render('Hello, world!');
