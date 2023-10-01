@@ -1,6 +1,8 @@
 
-The code is a simple implementation of the `createRoot` function that takes a `container`` as an argument and returns an object with a render method. 
-The render method takes an element as an argument and sets the `innerHTML`` of the container to a string that contains the element wrapped in a span tag.
+# ReactDom/createRoot
+
+The code is a simple implementation of the `createRoot` function that takes a `container` as an argument and returns an object with a render method. 
+The render method takes an element as an argument and sets the `innerHTML` of the container to a string that contains the element wrapped in a `span` tag.
 
 ```javascript
 const createRoot = function (container) {
@@ -25,7 +27,6 @@ currently render method is very simple. it will only render the element as a str
 The `render` function won’t be able to render `JSX`.
 However, this will be covered in the coming chapters.
 
-The method sets the `innerHTML` of the `container`` to a string that contains the element wrapped in a `span` tag.
 
 Please note that this is not the final code and is just meant to be a starting point.
 
@@ -47,7 +48,7 @@ root.render(app);
 
 ## Testing
 
-Please refere [unit Tests](react-like-libraray/react-dom/__tests__) for unit tests code of ```createRoot``` function.
+Please refere [unit Tests](../react-dom/react-dom/__tests__) for unit tests code of ```createRoot``` function.
 
 currently we have only few test cases for ```createRoot``` function.
 
