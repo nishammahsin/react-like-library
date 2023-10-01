@@ -48,7 +48,7 @@ root.render(app);
 
 ## Testing
 
-Please refere [unit Tests](../react-dom/react-dom/__tests__) for unit tests code of ```createRoot``` function.
+Please refere [unit Tests](../react-dom/__tests__) for unit tests code of ```createRoot``` function.
 
 currently we have only few test cases for ```createRoot``` function.
 
