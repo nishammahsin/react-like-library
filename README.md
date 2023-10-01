@@ -25,6 +25,6 @@ To run the examples and tests for this project, follow these steps:
    npm i
    npm run test
 
-
+```
 ## Chapters
-Chapter 1: CreateRoot Function [chapter 1](chapters/chapter-1.md)   
+Chapter 1: CreateRoot Function [chapter 1](./chapters/chapter-1.md)
