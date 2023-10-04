@@ -1,3 +1,4 @@
+## Use babel to transform JSX to Plain Javascript
 in the previouse chapter we have seen 
 ```javascript
 const Component = (props) => {
