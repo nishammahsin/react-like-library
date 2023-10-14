@@ -1,3 +1,4 @@
+# Implementing JSX
 In previouse chapter we have learned how to use babel to transform JSX to Plain Javascript
 
 in this chapter we will write the actual implementation transoformer function jsx()
@@ -29,9 +30,12 @@ const ui = React.jsx('div', {id: 'root', children: [
     React.jsx('p', {children: 'lorem ipsum'})
 ]})
 ```
+Since we dont have actual implementation of jsx function , if we run `npm run build` we will see the build file as below
+![JSX in build file befor jsx implemtation ](./images/jsx1.png)
 
+## Implementation of jsx function
 
-here each child is an object with type and props, the type is the tag name and props is an object with all the attributes and children
+Here each child is an object with type and props, the type is the tag name and props is an object with all the attributes and children
 
 so we can write our jsx function in the jsx run time like this
 ```javascript
