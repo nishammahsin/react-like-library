@@ -1,3 +1,5 @@
 export const jsx = (tag, props) => {
-   // To be implemented
+   return { tag, props };
   };
+
+export const jsxs = jsx;
