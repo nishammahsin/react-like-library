@@ -30,3 +30,7 @@ To run the examples and tests for this project, follow these steps:
 Chapter 1: `CreateRoot Function` =>  [chapter 1](./chapters/chapter-1.md)
 
 Chapter 2: `JSX to Plain Javascript` => [chapter 2](.chapter/chapter-2.md)
+
+Chapter 3: `JSX to Plain Javascript` => [chapter 2](.chapter/chapter-3.md)
+
+Chapter 4: `JSX to Plain Javascript` => [chapter 2](.chapter/chapter-4.md)
