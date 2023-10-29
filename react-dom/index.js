@@ -7,10 +7,12 @@
   
 const createRoot = function (container) {
     return {
-      render: function (element) {
-        container.innerHTML = '<span>' + element + '</span>';
+      render: function (creatEelement) {
+        const html = creatEelement();
+        container.appendChild(html);
       }
     };
   };
 
 export { createRoot }
+
