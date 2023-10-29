@@ -26,6 +26,9 @@ To run the examples and tests for this project, follow these steps:
    npm run test
 
 ```
+## Blog
+[All series of blog post on creating react-like-library](https://nisham.hashnode.dev/series/build-your-own-reactjs)
+
 ## Chapters
 Chapter 1: `CreateRoot Function` =>  [chapter 1](./chapters/chapter-1.md)
 
@@ -34,3 +37,5 @@ Chapter 2: `JSX to Plain Javascript` => [chapter 2](.chapter/chapter-2.md)
 Chapter 3: `JSX to Plain Javascript` => [chapter 2](.chapter/chapter-3.md)
 
 Chapter 4: `JSX to Plain Javascript` => [chapter 2](.chapter/chapter-4.md)
+
+Chapter 5: `JSX to Plain Javascript` => [chapter 2](.chapter/chapter-5.md)
