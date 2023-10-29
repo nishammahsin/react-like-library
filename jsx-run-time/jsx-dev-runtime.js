@@ -24,4 +24,6 @@ const createElement = function (tag, { children, ...props } = {}) {
   return element;
 };
 
-export const jsxs = createElement;
+
+export const jsxDEV = createElement;
+
